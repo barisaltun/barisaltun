@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A frontend developer who creates passionate projects from Turkey</h3>
 
 - 🔭 I’m currently working at **BHL Turkey**
 
